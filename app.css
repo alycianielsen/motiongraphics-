@@ -1,0 +1,68 @@
+body{
+	background-color: #fff;
+}
+
+main{
+	width: 1000px;
+	height: 800px;
+	margin: 0 auto;
+	/*border: 1px solid #000;*/
+	/*background-color: #fff;*/
+	background: linear-gradient(#0E0F18, #11112F, #211D5a);
+	overflow: hidden;
+	position: relative;
+
+}
+
+img{
+	position: absolute;
+}
+
+
+#fullmoontoggle img{
+	left: 410px;
+    top: 351px;
+	/*border: 1px solid blue;*/
+	/*width: 400px;*/
+	/*height: 300px;*/
+}
+
+#earth img{
+    left: 122px;
+    top: 287px;
+}
+
+#planet img{
+    top: 18px;
+    left: 197px;
+}
+
+#starsone img{
+	top: 25px;
+    left: 32px;
+}
+
+#starstwo img{
+    left: 21px;
+    top: 52px;
+}
+
+#spaceman img{
+	left:;
+	top:;
+}
+/**
+#spaceship img{
+	left:;
+	top:;
+}
+
+#spaceshiplight img{
+	left:;
+	top:;
+}
+/**/
+#alien img{
+	left:;
+	top:;
+}
