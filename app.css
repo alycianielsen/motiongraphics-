@@ -9,10 +9,12 @@ main{
 	/*border: 1px solid #000;*/
 	/*background-color: #fff;*/
 	background: linear-gradient(#0E0F18, #11112F, #211D5a);
+	transition: all 0.45s;
 	overflow: hidden;
 	position: relative;
-
 }
+
+
 
 img{
 	position: absolute;
@@ -51,18 +53,18 @@ img{
 	left:;
 	top:;
 }
-/**
+
 #spaceship img{
-	left:;
-	top:;
+	left: 566px;
+    top: 116px;
 }
 
-#spaceshiplight img{
+/*#spaceshiplight img{
 	left:;
 	top:;
-}
-/**/
+}*/
+
 #alien img{
-	left:;
-	top:;
+	left: 666px;
+    top: 137px;
 }
