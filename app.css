@@ -50,8 +50,8 @@ img{
 }
 
 #spaceman img{
-	left:;
-	top:;
+	top: 495px;
+    right: 941px;
 }
 
 #spaceship img{
@@ -59,10 +59,10 @@ img{
     top: 116px;
 }
 
-/*#spaceshiplight img{
-	left:;
-	top:;
-}*/
+#spaceshiplight img{
+    left: 535px;
+    top: 244px;
+}
 
 #alien img{
 	left: 666px;
