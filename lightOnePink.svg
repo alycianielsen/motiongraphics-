@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="29px" viewBox="0 0 31 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 3.52719576e-05 30.942 3.52719576e-05 30.942 29.0998649 0 29.0998649"></polygon>
+    </defs>
+    <g id="Artboard-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="Clip-2"></g>
+        <path d="M1.666,26.9317 C4.07,29.6127 8.23,29.8387 10.912,27.4347 L28.774,11.4147 C31.455,9.0107 31.682,4.8487 29.276,2.1677 C26.872,-0.5123 22.711,-0.7393 20.03,1.6657 L2.168,17.6857 C-0.513,20.0897 -0.739,24.2507 1.666,26.9317" id="Fill-1" fill="#D81F53" mask="url(#mask-2)"></path>
+    </g>
+</svg>
